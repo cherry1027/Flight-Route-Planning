@@ -65,7 +65,6 @@ We have added project documentation (Project Documentation.pdf) to the GitHub re
 
 ## Vercel Deployed Link
 
-The project has been deployed on Vercel. You can access it using the following link:
-[Flight Navigation System](https://airbus-challenge-fronted.vercel.app/)
+The project has been deployed on Vercel
 
 With these setup instructions and project documentation, you can get the backend and frontend of the flight navigation system up and running efficiently.
